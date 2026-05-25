@@ -1,0 +1,37 @@
+### **Junior Security Analyst Intro**
+
+**Room:** [Junior Security Analyst Intro](https://tryhackme.com/room/jrsecanalystintrouxo)  
+**Completed:** May 21, 2026
+
+### **Objective**
+
+To introduce myself to the role and daily tasks of an SOC analyst L1
+
+### **Tools Used**
+
+- THM
+- Simulated SIEM
+
+### **Step-by-Step Thought Process**
+
+1. **Step 1**: Read through the intro to familiarize myself with the role and SOC team.
+2. **Step 2**: Used SIEM to identify a malicious IP based on the information given and blocked it, then escalated to L2 analyst.
+
+### **Key Screenshots**
+
+*(Redacted sensitive information)*
+
+![Screenshot 1 Description](image-link-here)  
+*Caption: Brief description of what this screenshot shows*
+
+![Screenshot 2 Description](image-link-here)  
+*Caption: Brief description of what this screenshot shows*
+
+### **What I Learned + Application to SOC Analyst Role**
+
+- Key technical takeaway
+- How this skill translates to real-world Security Operations Center work (detection, investigation, response, etc.)
+
+### **Production Takeaway**
+
+> “This reinforced the importance of proper log correlation for faster triage.”

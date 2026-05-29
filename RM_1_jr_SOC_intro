@@ -7,7 +7,7 @@
 
 To introduce myself to the role and daily tasks of an SOC analyst L1
 
-### **Tools Used**
+### **Tools Used**  
 
 - THM
 - Simulated SIEM
@@ -24,13 +24,10 @@ To introduce myself to the role and daily tasks of an SOC analyst L1
 ![Screenshot 1 Description](image-link-here)  
 *Caption: Brief description of what this screenshot shows*
 
-![Screenshot 2 Description](image-link-here)  
-*Caption: Brief description of what this screenshot shows*
-
 ### **What I Learned + Application to SOC Analyst Role**
 
-- Key technical takeaway
-- How this skill translates to real-world Security Operations Center work (detection, investigation, response, etc.)
+- I learned the general role of the SOC analyst L1 and simulated the detection, reseaarch, escalating, and blocking of a malicious IP
+- I imagine this mirrors a real world level 1 SOC operation closely, as it involves immediate detection, investigation, and quarantine of a threat
 
 ### **Production Takeaway**
 
